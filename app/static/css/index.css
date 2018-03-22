@@ -1,0 +1,20 @@
+.docs-content {
+  background: #fff;
+  padding: 1px 10px 40px;
+  margin-left: 30px;
+  max-width: 900px;
+}
+
+.docs-content > .django-documentation > h1, .docs-content > .django-documentation p {
+  color: #0C3C26;
+  display: block;
+}
+
+.docs-content > .docs-session {
+  border-top: 1px solid #C9F0DD;
+}
+
+.docs-content > .docs-session > h2, .docs-content > .docs-session p, .docs-content > .docs-session li, .docs-content > .docs-session ul {
+  color: #0C3C26;
+  line-height: 1.7;
+}

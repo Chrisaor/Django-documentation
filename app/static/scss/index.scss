@@ -1,0 +1,21 @@
+.docs-content {
+  background: #fff;
+  padding: 1px 10px 40px;
+  margin-left: 30px;
+  max-width: 900px;
+
+  > .django-documentation {
+    > h1,p  {
+    color: #0C3C26;
+    display: block;
+  }
+
+}
+> .docs-session {
+  border-top: 1px solid #C9F0DD;
+  > h2,p,li,ul  {
+  color: #0C3C26;
+  line-height: 1.7;
+}
+}
+}
